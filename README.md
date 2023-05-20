@@ -1,1 +1,1 @@
-Before install please read the LICENSE
+Before installation please read the LICENSE!
