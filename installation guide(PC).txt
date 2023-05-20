@@ -1,10 +1,11 @@
-1) Download Python from oficial site (python.org).
-2) Open downloaded file.
-3) Installing python (with pip).
-4) Unpack the archive into a convenient folder.
-5) Сlick on the folder path.
-6) Enter "cmd.exe".
-7) Enter command "pip install -r requirements.txt".
-8) Open the file in a text editor and scroll to the last line.
-9) Replace "Your token" with your bot's token
-10) Open the file in cmd.exe, by entering the command "python 'name'.py" (where 'name' is the python file name), wait for the bot to turn on.
+1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
+2) Download Python from oficial site (python.org).
+3) Open downloaded file.
+4) Installing python (with pip).
+5) Unpack the archive into a convenient folder.
+6) Сlick on the folder path.
+7) Enter "cmd.exe".
+8) Enter command "pip install -r requirements.txt".
+9) Open the file in a text editor and scroll to the last line.
+10) Replace "Your token" with your bot's token
+11) Open the file in cmd.exe, by entering the command "python 'name'.py" (where 'name' is the python file name), wait for the bot to turn on.
