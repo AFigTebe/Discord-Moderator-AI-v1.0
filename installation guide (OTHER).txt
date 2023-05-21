@@ -1,8 +1,7 @@
-1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
-2) Download and install Termux.
-3) Unpack the archive into a convenient folder.
-4) Open Termux, enter "pkg install python", "pip install discord", "pip install requests" and "pip install --upgrade translators".
-5) Then close it and go to the folder where the project was unpacked.
-6) Open the file in a text editor and scroll to the last line.
-7) Replace "Your token" with your bot's token, save and exit.
-8) Click on file and in list select "Termux".
+1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
+2) Unpack the archive into a convenient folder.
+3) Open Termux, enter "git clone https://github.com/UlionTse/translators.git", "cd translators", "pkg install python", "pip install discord" and "pip install requests".
+4) Then close it and go to the folder where the project was unpacked.
+5) Open the file in a text editor and scroll to the last line.
+6) Replace "Your token" with your bot's token, save and exit.
+7) Click on file and in list select "Terminal".
