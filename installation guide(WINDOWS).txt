@@ -1,4 +1,4 @@
-) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
+1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
 2) Download Python from oficial site (python.org).
 3) Open downloaded file.
 4) Installing python (with pip).
