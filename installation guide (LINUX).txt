@@ -1,4 +1,4 @@
-1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
+) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
 
 2) Unpack the archive into a convenient folder.
 3) Open Terminal and enter next commands:
