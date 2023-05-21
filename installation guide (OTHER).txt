@@ -1,6 +1,10 @@
 1) Create a bot (https://www.free codecamp.org/news/create-a-discord-bot-with-python).
 2) Unpack the archive into a convenient folder.
-3) Open Termux, enter "git clone https://github.com/UlionTse/translators.git", "cd translators", "pkg install python", "pip install discord" and "pip install requests".
+3) Open Terminal and enter next commands:
+"git clone https://github.com/UlionTse/translators.git", "cd translators",
+"pkg install python",
+"pip install discord"
+and "pip install requests".
 4) Then close it and go to the folder where the project was unpacked.
 5) Open the file in a text editor and scroll to the last line.
 6) Replace "Your token" with your bot's token, save and exit.
